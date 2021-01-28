@@ -25,7 +25,7 @@ SECRET_KEY = '0@mx_t7v40^326i-@^#*tqe4=hgi2^tr(=nx85#iwf1ju)q)7)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://v2kaj.pythonanywhere.com/',]
 
 
 # Application definition
