@@ -1,0 +1,49 @@
+@media screen and (min-width: 800px) {
+    img{
+        width: 100%;
+    }
+  }
+#mainNav{
+    background-color: rgb(75, 9, 75);
+}   
+
+#companyName{
+    font-size: 1.2em;
+}
+
+.w3-sidebar, .w3-top {
+    background-color:#52014e;
+    color:white;
+}
+.menu{
+    color:#52014e;
+}
+
+.w3-round{
+    width:50px;
+    background-color:#52014e;
+    border:5px solid #52014e;
+}
+.w3-button{
+    background-color: #52014e;
+    color: white;
+}
+
+.mainTitle{
+    background: url(main.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color:white;
+}
+
+#logo{
+    width:20%;
+    height: auto;
+}
+.w3-bar-block{
+    margin-top:-50px;
+    font-size: 15px;
+}
+.w3-padding-64{
+    margin-top:-50px;  
+}
