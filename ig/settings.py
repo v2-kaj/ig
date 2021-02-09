@@ -118,7 +118,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
-STATIC_URL = '/home/v2kaj/ig/savings/static/'
+STATIC_URL = '/home/v2kaj/ig/savings/static/savings'
 
-STATIC_ROOT = '/home/v2kaj/ig/savings/static/'
+STATIC_ROOT = '/home/v2kaj/ig/savings/static/savings'
 
