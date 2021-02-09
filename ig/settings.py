@@ -119,3 +119,6 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/home/v2kaj/ig/savings/static/'
+
+STATIC_ROOT = '/home/v2kaj/ig/savings/static/'
+
